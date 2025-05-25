@@ -3,13 +3,13 @@ albumentations
 controlnet_aux
 # codecov
 # flake8
-# isort==5.10.1
+# isort>=5.10.1
 # onnxruntime
 # pytest
 # pytest-runner
 # yapf
-coverage < 7.0.0
-imageio-ffmpeg==0.4.4
+coverage
+imageio-ffmpeg>=0.4.4
 interrogate
 mmdet >= 3.0.0
 pytest
