@@ -1,4 +1,5 @@
-av ; python_version 
+av
+av>=0.8.0; python_version < '3.7'
 click  # required by mmagic/utils/io_utils.py
 controlnet_aux
 diffusers>=0.23.0
